@@ -1,0 +1,41 @@
+body {
+  background-color: #DFD;
+}
+.form-container{
+  text-align: center;
+  padding:10px;
+}
+.input-group{
+  height:70px;
+}
+
+label{
+  font-family:helvetica;
+  font-size: 20px;
+ font-weight:bold;
+  
+}
+
+input{
+  width:500px;
+  height:30px;
+  border-radius:15px;
+  font-family: courier;
+  font-size:15px;
+  font-weight:bold;
+  
+}
+
+#submit{
+  width:15%;
+  font-weight:bold;
+  font-family:courier;
+}
+
+.form-container{
+  background: #DDD;
+  margin-right: 25%;
+  margin-left:  25%;
+  border:1px solid grey;
+
+}
